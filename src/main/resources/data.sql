@@ -1,0 +1,15 @@
+insert into station values (null, 'Amadora');
+insert into station values (null, 'Abrantes');
+insert into station values (null, 'Adémia');
+insert into station values (null, 'Afife');
+insert into station values (null, 'Agualva-Cacém');
+insert into station values (null, 'Baraçal');
+insert into station values (null, 'Barca da Amieira-Envendos');
+insert into station values (null, 'Barqueiros');
+insert into station values (null, 'Caxias');
+insert into station values (null, 'Caíde');
+insert into station values (null, 'Celorico da Beira');
+insert into station values (null, 'Trofa');
+insert into station values (null, 'Évora');
+insert into station values (null, 'Valença');
+insert into station values (null, 'Vermoil');
